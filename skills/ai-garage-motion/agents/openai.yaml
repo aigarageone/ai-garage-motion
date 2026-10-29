@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Garage Motion"
+  short_description: "Direct, build, and review expressive motion videos"
+  default_prompt: "Use $ai-garage-motion to turn my idea into a storyboard, motion video, and reviewed export."
